@@ -13,7 +13,7 @@ Develop an automated machine learning system that identifies employees who are a
 Successfully communicate results to management
 
 ![Data science](https://cdn.pixabay.com/photo/2020/01/16/12/02/digitization-4770296_1280.jpg)
-
+![screenshot](/screenshot/screenshot1.png)
 ## Acknowledgements
 
 
@@ -48,8 +48,10 @@ Successfully communicate results to management
 - We have understood what to do with the predictions and different ways to exploit the results
 ## Tech Stack
 
-**Tech:** Python, Numpy, Pandas, Matplotlib, Scikitlearn
+**Tech:** Python, Numpy, Pandas, Matplotlib, Scikitlearn, Tableau Public
 **Hardware environment:** Cloud Google Colab
 
+Link to watch the dashboard of this project on Tableau:
+https://public.tableau.com/views/PracticaDashboard_16969499917020/DashboardFugaEmpleados?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
